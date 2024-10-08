@@ -1,2 +1,3 @@
 안녕반가워
 , 만나서
+즐겁다git log --oneline --all
